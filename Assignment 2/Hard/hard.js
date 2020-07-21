@@ -8,12 +8,12 @@ function realType(v){
     }
 }
 
-// console.log(realType(undefined));
-// console.log(realType("a"));
-// console.log(realType(1));
-// console.log(realType(true));
-// console.log(realType([]));
-// console.log(realType(null));
+console.log(realType(undefined));
+console.log(realType("a"));
+console.log(realType(1));
+console.log(realType(true));
+console.log(realType([]));
+console.log(realType(null));
 
 
 //Q2
