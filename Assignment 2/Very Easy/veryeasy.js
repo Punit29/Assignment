@@ -1,3 +1,4 @@
+//Q1.
 function minToSec(mins){
     return mins*60;
 }
@@ -5,7 +6,7 @@ function minToSec(mins){
 console.log("Qustion 1: ");
 console.log(minToSec(3));
 
-
+//Q2.
 function divideEven(div,divi){
     if(div%divi==0){
         return true;

@@ -1,3 +1,4 @@
+//Q1.
 function charCount(letter,str){
     var count=0;
     for(var i=0;i<str.length;i++){
@@ -12,6 +13,7 @@ let letter = "e";
 let str = "Chamber of Secrets";
 console.log(charCount(letter,str));
 
+//Q2.
 function addUp(n){
     var sum=0;
     for(var i=1;i<=n;i++){
@@ -23,6 +25,7 @@ function addUp(n){
 console.log(addUp(600));
 
 
+//Q3.
 function replaceVowel(str2){
     for(var i=0;i<str2.length;i++){
         if(str2.charAt(i)=='a'){
