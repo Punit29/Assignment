@@ -1,3 +1,6 @@
+## Live Link
+https://punit29.github.io/Covid-and-Weather-Dashboard/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
